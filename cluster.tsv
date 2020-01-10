@@ -1,0 +1,36 @@
+Cluster	TOT	Interpretation	Family
+32	155	Consumpion	OIL
+3	370	Header temperature	OIL
+35	474	Supply temperature	OIL
+8	251	Mineral oil filter pressure	OIL
+20	173	Hydraulic oil filter pressure	OIL
+14	487	Tank level	OIL
+25	438	Tank pressure	OIL
+7	704	Sump/Scavange	OIL
+1	563	Vibration	TURBINE
+30	2053	Temperature	TURBINE
+18	319	Ventilation	TURBINE
+19	664	 Exhaust thermocouple	TURBINE
+21	531	Gas	TURBINE
+13	497	Lean/Lean mode	COMBUSTION
+28	380	Flame detector	COMBUSTION
+16	478	ABAL system	COMBUSTION
+29	517	Fuel gas	COMBUSTION
+12	265	Discharge temperature	COMPRESSOR
+10	288	Drive end	COMPRESSOR
+17	530	Primary vent	COMPRESSOR
+6	136	Antisurge	VALVE
+34	641	Bleed	VALVE
+33	265	Inlet pressure	AIR
+22	455	Filter	AIR
+24	672	Temperature	BEARING
+27	181	Damage	BEARING
+5	397	Speed shaft	GEARBOX
+15	283	Speed	CLUTCH
+23	488	Resistence	TRANSMITTER
+26	443	Gas	SEAL
+2	888	Acquisition loop issue	MONITORING
+4	1483	Unrealistic trend	MONITORING
+9	1114	High standard deviation	MONITORING
+11	579	Out of normal range	MONITORING
+31	254	Significantly different	MONITORING
