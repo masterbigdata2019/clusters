@@ -262,7 +262,7 @@ Id	Cluster	Interpretation	Family
 56058	1	Vibration	Turbine
 56066	22	Filter	Air
 56105	6	Antisurge	Valve
-56100	17	Antisurge	Compressor
+56100	17	Primary vent	Compressor
 56125	24	Temperature	Bearing
 56152	1	Vibration	Turbine
 56205	1	Vibration	Turbine
